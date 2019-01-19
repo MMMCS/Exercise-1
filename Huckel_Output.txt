@@ -1,0 +1,6 @@
+ Problem Type: 3d 
+ Number of nodes or type of 3D problem: tetra 
+ Alpha: 0 
+ Beta: -1 
+ Energy: [-3.0, 1.0] 
+ Degeneracy [1, 3]
